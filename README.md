@@ -1,5 +1,7 @@
 ### Hello, I am Tucker Larrabee 👋
 
+![code-banner](https://user-images.githubusercontent.com/94421867/163397629-eadd0610-dd62-482c-8f83-a7b8bffd1c78.jpg)
+
 <!--
 **TuckerLarrabee/TuckerLarrabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
