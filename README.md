@@ -1,6 +1,7 @@
 ### Hello, I am Tucker Larrabee 👋
 
-![code-banner-2](https://user-images.githubusercontent.com/94421867/163397863-241f08da-ebc5-487e-84f8-68762d0a95fc.jpg)
+
+![codingBanner](https://user-images.githubusercontent.com/94421867/163398321-1f711af9-8be5-465b-ba1c-d6cf7664b2b2.png)
 
 
 <!--
