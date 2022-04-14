@@ -18,3 +18,7 @@
 - ⚡ Fun fact: **I love coding**
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🔭 I’m currently working on -->
+
+-----
+
+<h3> 🌐 Languages and Tools : </h3>
