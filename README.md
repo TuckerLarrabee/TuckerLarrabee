@@ -3,6 +3,8 @@
 
 ![codingBanner](https://user-images.githubusercontent.com/94421867/163398321-1f711af9-8be5-465b-ba1c-d6cf7664b2b2.png)
 
+💡 Connect with me: 
+
 
 <!--
 **TuckerLarrabee/TuckerLarrabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
