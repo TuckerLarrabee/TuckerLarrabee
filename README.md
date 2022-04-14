@@ -5,7 +5,7 @@
 
 <h3>💡 Connect with me: </h3>
 
----
+--
 
 <!--
 **TuckerLarrabee/TuckerLarrabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
