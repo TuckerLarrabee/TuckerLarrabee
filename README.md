@@ -10,11 +10,10 @@
 **TuckerLarrabee/TuckerLarrabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning: **React...everything** 🤣
-<!-- 👯 I’m looking to collaborate on ... -->
 - 💬 Ask me about: **JavaScript, Node.Js, React**
 - 📫 How to reach me: **tuckerlarrabee13@gmail.com**
 - 📄 To find out more about my professional experience: **https://www.linkedin.com/in/tuckerlarrabee/**
 - ⚡ Fun fact: **I love coding**
-
+<!-- 👯 I’m looking to collaborate on ... -->
+<!-- 🔭 I’m currently working on -->
