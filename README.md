@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am Tucker Larrabee 👋
 
 <!--
 **TuckerLarrabee/TuckerLarrabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
